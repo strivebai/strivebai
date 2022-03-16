@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strivebai
 - 👀 I’m interested in game and my girlfriend
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c 
+- 💞️ I’m looking to collaborate on learn something about
 - 📫 How to reach me ...
 
 <!---
